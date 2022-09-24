@@ -3,7 +3,7 @@ title: 事業内容
 subtitle: Works
 layout: product-category
 show_sidebar: false
-sort: price
+sort: title
 ---
 
 # ハッチビットの得意分野
