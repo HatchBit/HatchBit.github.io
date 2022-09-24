@@ -3,7 +3,7 @@ title: 会社概要
 subtitle: About us
 layout: page
 show_sidebar: false
-permalink: /companyprofile/
+permalink: /company_profile/
 ---
 
 # 未来を開くトビラ

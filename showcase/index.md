@@ -7,7 +7,7 @@ show_sidebar: false
 
 # 制作実績
 
-- [ウェブディレクトリシステム](/showcase/websitedirectories/)
+- [ウェブディレクトリシステム](/showcase/website_directories/)
 - [SIP電話 – Asterisk –](/showcase/sip_phone/)
 - [アクセスランキング](/showcase/ac_rankings/)
 - [アクセスカウンター](/showcase/counters/)

@@ -4,7 +4,7 @@
     - name: システム開発
       link: /works/system_development/
     - name: ホームページ制作
-      link: /works/homepage_seisaku/
+      link: /works/homepage_create/
     - name: SEO対策
       link: /works/seo/
     - name: クラウドオフィス
@@ -15,7 +15,7 @@
   link: /showcase/
   dropdown:
     - name: ウェブディレクトリシステム
-      link: /showcase/websitedirectories/
+      link: /showcase/website_directories/
     - name: SIP電話 – Asterisk –
       link: /showcase/sip_phone/
     - name: アクセスランキング
@@ -27,4 +27,4 @@
     - name: 相互リンクシステム
       link: /showcase/sogolinks/
 - name: 会社概要
-  link: /companyprofile/
+  link: /company_profile/

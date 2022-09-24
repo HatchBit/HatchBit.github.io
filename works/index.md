@@ -10,7 +10,7 @@ show_sidebar: false
 主にシステム開発が得意です。
 
 - [システム開発](/works/system_development/)
-- [ホームページ制作](/works/homepage_seisaku/)
+- [ホームページ制作](/works/homepage_create/)
 - [SEO対策](/works/seo/)
 - [クラウドオフィス](/works/cloud_office/)
 - [ウェブコンサルティング](/works/consulting/)
