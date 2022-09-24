@@ -1,5 +1,5 @@
 ---
-layout: product-category
+layout: page
 title: 事業内容
 subtitle: Works
 sort: title
