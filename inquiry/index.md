@@ -8,11 +8,15 @@ permalink: /inquiry/
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form id="my-form" action="https://formspree.io/f/mnqrdvng" method="POST">
-  <label>Email:</label>
-  <input type="email" name="email" />
-  <label>Message:</label>
-  <input type="text" name="message" />
-  <button id="my-form-button">Submit</button>
+    <div class="form-group">
+        <label for="input-email">Email:</label>
+        <input type="email" name="email" id="input-email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="input-message">Message:</label>
+        <textarea name="message" id="input-message" class="form-control"></textarea>
+    </div>
+  <button id="my-form-button" class="btn btn-primary">送信</button>
   <p id="my-form-status"></p>
 </form>
 <!-- Place this script at the end of the body tag -->
