@@ -2,6 +2,7 @@
 layout: product-category
 title: 事業内容
 subtitle: Works
+sort: title
 ---
 
 # ハッチビットの得意分野
