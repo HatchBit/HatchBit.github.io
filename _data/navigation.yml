@@ -1,5 +1,16 @@
-- name: Docs
-  link: /docs/
+- name: 事業内容
+  link: /works/
+  dropdown:
+    - name: システム開発
+      link: /works/system_development/
+    - name: ホームページ制作
+      link: /works/homepage_seisaku/
+    - name: SEO対策
+      link: /works/seo/
+    - name: クラウドオフィス
+      link: /works/cloud_office/
+    - name: ウェブコンサルティング
+      link: /works/consulting/
 - name: Example Pages
   link: /#
   dropdown:

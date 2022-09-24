@@ -4,6 +4,7 @@ subtitle: Website
 description: ホームページは作っただけじゃ意味が無い。全ての目的はただ一つ。成果を上げる事。
 layout: page
 show_sidebar: false
+permalink: /works/homepage_seisaku/
 ---
 
 # ホームページは作っただけじゃ意味が無い。

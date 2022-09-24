@@ -12,3 +12,7 @@ sort: title
 
 - [システム開発](/works/system_development/)
 - [ホームページ制作](/works/homepage_seisaku/)
+- [SEO対策](/works/seo/)
+- [クラウドオフィス](/works/cloud_office/)
+- [ウェブコンサルティング](/works/consulting/)
+

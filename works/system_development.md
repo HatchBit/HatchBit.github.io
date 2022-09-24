@@ -4,6 +4,7 @@ subtitle: System development
 description: 小規模から大規模まで柔軟に対応できます
 layout: page
 show_sidebar: false
+permalink: /works/system_development/
 ---
 
 # 小規模から大規模まで柔軟に対応できます。
