@@ -3,7 +3,7 @@ title: お問い合わせ
 subtitle: Contact us
 layout: page
 show_sidebar: false
-permalink: /company_profile/
+permalink: /inquiry/
 ---
 
 <!-- modify this form HTML and place wherever you want your form -->
