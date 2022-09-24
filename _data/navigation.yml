@@ -11,20 +11,20 @@
       link: /works/cloud_office/
     - name: ウェブコンサルティング
       link: /works/consulting/
-- name: Example Pages
-  link: /#
+- name: 制作実績
+  link: /showcase/
   dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
+    - name: ウェブディレクトリシステム
+      link: /showcase/websitedirectories/
+    - name: SIP電話 – Asterisk –
+      link: /showcase/sip_phone/
+    - name: アクセスランキング
+      link: /showcase/ac_rankings/
+    - name: アクセスカウンター
+      link: /showcase/counters/
+    - name: 自動リンクシステム
+      link: /showcase/autolinks/
+    - name: 相互リンクシステム
+      link: /showcase/sogolinks/
 - name: Blog
   link: /blog/
