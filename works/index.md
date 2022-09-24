@@ -10,5 +10,5 @@ sort: title
 
 主にシステム開発が得意です。
 
-- [システム開発](/works/system_development.html)
-- [ホームページ制作](/works/homepage_seisaku.html)
+- [システム開発](/works/system_development/)
+- [ホームページ制作](/works/homepage_seisaku/)
