@@ -1,8 +1,9 @@
 ---
-layout: page
 title: 事業内容
 subtitle: Works
-sort: title
+layout: product-category
+show_sidebar: false
+sort: price
 ---
 
 # ハッチビットの得意分野

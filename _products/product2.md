@@ -1,10 +1,10 @@
 ---
-title: システム開発
-subtitle: Open web system development
-product_code: WEBSYSTEMDEVELOPMENT
+title: Product 2 Name
+subtitle: Product 2 tagline here
+product_code: ABC123
 layout: product
 image: https://via.placeholder.com/640x480
-price: ASK
+price: £0.99 + VAT
 features:
 - label: Great addition to any home
 icon: fa-location-arrow
@@ -15,5 +15,6 @@ icon: fa-fighter-jet
 rating: 3
 ---
 
-アクセスカウンター～ショッピングカートシステム
-小規模から大規模まで柔軟に対応できます。
+This is the content about the product.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauri
