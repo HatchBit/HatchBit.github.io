@@ -2,7 +2,7 @@
 title: 事業内容
 subtitle: Works
 layout: page
-show_sidebar: false
+show_sidebar: true
 sort: title
 ---
 
