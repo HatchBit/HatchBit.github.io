@@ -9,12 +9,12 @@ permalink: /inquiry/
 <!-- modify this form HTML and place wherever you want your form -->
 <form id="my-form" action="https://formspree.io/f/mnqrdvng" method="POST">
     <div class="form-group">
-        <label for="input-email">Email:</label>
-        <input type="email" name="email" id="input-email" class="form-control" />
+        <label for="input-email" style="display: inline-block; width: 5rem;">Email:</label>
+        <input type="email" name="email" id="input-email" class="form-control" style="width: 10rem;" />
     </div>
     <div class="form-group">
-        <label for="input-message">Message:</label>
-        <textarea name="message" id="input-message" class="form-control"></textarea>
+        <label for="input-message" style="display: inline-block; width: 5rem;">Message:</label>
+        <textarea name="message" id="input-message" class="form-control" style="width: 10rem; height: 6rem;"></textarea>
     </div>
   <button id="my-form-button" class="btn btn-primary">送信</button>
   <p id="my-form-status"></p>
@@ -35,19 +35,19 @@ permalink: /inquiry/
         }
       }).then(response => {
         if (response.ok) {
-          status.innerHTML = "Thanks for your submission!";
+          status.innerHTML = "お問い合わせありがとうございます！";
           form.reset()
         } else {
           response.json().then(data => {
             if (Object.hasOwn(data, 'errors')) {
               status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
             } else {
-              status.innerHTML = "Oops! There was a problem submitting your form"
+              status.innerHTML = "メッセージ送信中に問題が発生しました"
             }
           })
         }
       }).catch(error => {
-        status.innerHTML = "Oops! There was a problem submitting your form"
+        status.innerHTML = "メッセージ送信中に問題が発生しました"
       });
     }
     form.addEventListener("submit", handleSubmit)
